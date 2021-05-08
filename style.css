@@ -1,7 +1,7 @@
 body { 
     color: #421; 
     font-weight: bold; 
-    font-size: 18px; 
+    font-size: 16px; 
     font-family: "Courier New"; 
     background: rgb(200, 232, 241); 
 
@@ -27,9 +27,9 @@ span {
 }
 #main { 
     position: fixed; 
-    top: 40%; 
-    right: 200px; 
-    width: 400px; 
+    top: 5%; 
+    #right: 100px; 
+    width: 800px; 
     border: 0px solid #421; 
     padding: 40px; 
 }
